@@ -1,11 +1,3 @@
-# Ayan's Portfolio website [React Project]
-
-## Live Preview: [Open Link][preview]
-
-Coded by - [shaif Arfan](http://instagram.com/shaifarfan08) | [web cifar](http://webcifar.com)
-
-![](./ReadMeImages/ReadMeBanner.png)
-
 ## Project Details
 
 A portfolio for a web designer. We used React js to make this portfolio. A clean design with full responsiveness. You will find this portfolio very professional. Also we added smooth scroll in the portfolio which will make the user experience really elegant.
