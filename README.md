@@ -37,13 +37,3 @@ and after that start the server.
 ```shell
 npm start
 ```
-
-### If you like the tutorial, please share this with others.
-
-## want to use the website ?
-
-This tutorial is made for educational purpose. Also this is free to use. Though if you use this website, you need to give us the proper credit for the website. keep the bottom footer part of the website.
-
-![](./ReadMeImages/designedByWebCifar.png)
-
-[preview]: https://ayans-portfolio.netlify.app/
